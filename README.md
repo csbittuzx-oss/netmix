@@ -46,10 +46,10 @@ Choose the APK that best matches your target device:
 
 | Architecture | Device Compatibility | Size | Download Link | Direct Mirror | SHA-256 Checksum |
 | :--- | :--- | :---: | :---: | :---: | :--- |
-| **ARM64 (`arm64-v8a`)**<br>*(Recommended)* | Almost all modern smartphones and tablets (64-bit ARM) | **40.4 MB** | [**⬇️ Download APK**](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.5/Netmix-v0.5.5-arm64-v8a.apk) | [Raw Mirror](https://github.com/csbittuzx-oss/netmix/raw/main/release/Netmix-v0.5.2-arm64-v8a.apk) | `EA7B7A420A2457F2CA8D42D7AB146F460205701E5E91964BFDC6C3258D6F8E8E` |
-| **Universal APK** | Any Android device (Phones, Tablets, Google TV, Android TV, FireStick) | **107.6 MB** | [**⬇️ Download APK**](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.5/Netmix-v0.5.5-universal.apk) | — | `A4EE566C3277CF1D047C3B18F1C5E2D03A71101D7103F8373A73030EDAF166FF` |
-| **ARMv7 (`armeabi-v7a`)** | Older 32-bit smartphones, legacy TV boxes, Fire TV Stick Gen 2/3 | **38.7 MB** | [**⬇️ Download APK**](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.5/Netmix-v0.5.5-armeabi-v7a.apk) | — | `247BA8E6564F20D13E52CCA4DA91DC5970110154845778BE95DF234D6FF46AAC` |
-| **x86_64** | Chromebooks, Windows Subsystem for Android (WSA), 64-bit PC Emulators | **41.7 MB** | [**⬇️ Download APK**](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.5/Netmix-v0.5.5-x86_64.apk) | — | `C2AD62D52DF70D0402D66C67A5CAD5EDCDE4BBAA6E3FA141B88BC265E6321870` |
+| **ARM64 (`arm64-v8a`)**<br>*(Recommended)* | Almost all modern smartphones and tablets (64-bit ARM) | **40.4 MB** | [**⬇️ Download APK**](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.5/Netmix-v0.5.5-arm64-v8a.apk) | [Raw Mirror](https://github.com/csbittuzx-oss/netmix/raw/main/release/Netmix-v0.5.5-arm64-v8a.apk) | `AF49D870D4764CB422887C0AF336CF96448ABF8DA601FC9B11989D42989CD0D1` |
+| **Universal APK** | Any Android device (Phones, Tablets, Google TV, Android TV, FireStick) | **107.6 MB** | [**⬇️ Download APK**](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.5/Netmix-v0.5.5-universal.apk) | — | `15210A66B41C29BE45B5A028021C2336487A40C60E040F9AE676EE8F31AE870B` |
+| **ARMv7 (`armeabi-v7a`)** | Older 32-bit smartphones, legacy TV boxes, Fire TV Stick Gen 2/3 | **38.7 MB** | [**⬇️ Download APK**](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.5/Netmix-v0.5.5-armeabi-v7a.apk) | — | `D7475ED18298A69CDBD157B2668B4DDC971F5B8F44C26B7B88220DBB3E76070E` |
+| **x86_64** | Chromebooks, Windows Subsystem for Android (WSA), 64-bit PC Emulators | **41.7 MB** | [**⬇️ Download APK**](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.5/Netmix-v0.5.5-x86_64.apk) | — | `315DBB649473CCD5A0489AB42D693F98120045E084B5ABB761289B0C6B0CF7F8` |
 
 ---
 
