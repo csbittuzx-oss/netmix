@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/csbittuzx-oss/netmix/releases/latest">
-    <img src="https://img.shields.io/badge/version-v0.5.2-E50914.svg?style=for-the-badge" alt="Latest Version" />
+    <img src="https://img.shields.io/badge/version-v0.5.5-E50914.svg?style=for-the-badge" alt="Latest Version" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/platform-Android_7.0+-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Platform" />
@@ -29,14 +29,14 @@
 ## 🚀 Quick Download
 
 ### Primary Release (Most Android Phones & Tablets)
-[![Download Release APK (ARM64)](https://img.shields.io/badge/⬇%EF%B8%8F_Download_Release_APK-ARM64--v8a_(Recommended)-E50914?style=for-the-badge&logo=android&logoColor=white)](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.2/Netmix-v0.5.2-arm64-v8a.apk)
+[![Download Release APK (ARM64)](https://img.shields.io/badge/⬇%EF%B8%8F_Download_Release_APK-ARM64--v8a_(Recommended)-E50914?style=for-the-badge&logo=android&logoColor=white)](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.5/Netmix-v0.5.5-arm64-v8a.apk)
 
 > **Recommended for 99% of modern phones**: Samsung Galaxy, Google Pixel, OnePlus, Xiaomi / Redmi / Poco, Motorola, Vivo, Oppo, Realme, Nothing Phone, etc.
 
 <br>
 
 ### Alternative Download Option (Android TV / All Devices)
-[![Download Universal APK](https://img.shields.io/badge/⬇%EF%B8%8F_Download_Universal_APK-All_Devices_%26_TV-1B1B1F?style=for-the-badge&logo=android&logoColor=white)](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.2/Netmix-v0.5.2-universal.apk)
+[![Download Universal APK](https://img.shields.io/badge/⬇%EF%B8%8F_Download_Universal_APK-All_Devices_%26_TV-1B1B1F?style=for-the-badge&logo=android&logoColor=white)](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.5/Netmix-v0.5.5-universal.apk)
 
 ---
 
@@ -46,20 +46,20 @@ Choose the APK that best matches your target device:
 
 | Architecture | Device Compatibility | Size | Download Link | Direct Mirror | SHA-256 Checksum |
 | :--- | :--- | :---: | :---: | :---: | :--- |
-| **ARM64 (`arm64-v8a`)**<br>*(Recommended)* | Almost all modern smartphones and tablets (64-bit ARM) | **40.2 MB** | [**⬇️ Download APK**](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.2/Netmix-v0.5.2-arm64-v8a.apk) | [Raw Mirror](https://github.com/csbittuzx-oss/netmix/raw/main/release/Netmix-v0.5.2-arm64-v8a.apk) | `DE2E1F63F58D09320F513B1B8CA40C6D1EFA332DE6A8EAB4A15E5BB25DE488BB` |
-| **Universal APK** | Any Android device (Phones, Tablets, Google TV, Android TV, FireStick) | **107.5 MB** | [**⬇️ Download APK**](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.2/Netmix-v0.5.2-universal.apk) | — | `1B7D83412969AFCF165A15BC1EF4272AC801ED73CFDD6827F5C7B9817C8C67A0` |
-| **ARMv7 (`armeabi-v7a`)** | Older 32-bit smartphones, legacy TV boxes, Fire TV Stick Gen 2/3 | **38.6 MB** | [**⬇️ Download APK**](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.2/Netmix-v0.5.2-armeabi-v7a.apk) | — | `04F71D210922970359A4EFE10AB4AE63D165DCC1FC1727A75D04428E8E98D0B5` |
-| **x86_64** | Chromebooks, Windows Subsystem for Android (WSA), 64-bit PC Emulators | **41.5 MB** | [**⬇️ Download APK**](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.2/Netmix-v0.5.2-x86_64.apk) | — | `DC1252FB29EA03DCC98C15BDF1F0B7FA3C0BEDBD1B7B07DC1BC4EB1D62E934A8` |
+| **ARM64 (`arm64-v8a`)**<br>*(Recommended)* | Almost all modern smartphones and tablets (64-bit ARM) | **40.4 MB** | [**⬇️ Download APK**](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.5/Netmix-v0.5.5-arm64-v8a.apk) | [Raw Mirror](https://github.com/csbittuzx-oss/netmix/raw/main/release/Netmix-v0.5.2-arm64-v8a.apk) | `EA7B7A420A2457F2CA8D42D7AB146F460205701E5E91964BFDC6C3258D6F8E8E` |
+| **Universal APK** | Any Android device (Phones, Tablets, Google TV, Android TV, FireStick) | **107.6 MB** | [**⬇️ Download APK**](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.5/Netmix-v0.5.5-universal.apk) | — | `A4EE566C3277CF1D047C3B18F1C5E2D03A71101D7103F8373A73030EDAF166FF` |
+| **ARMv7 (`armeabi-v7a`)** | Older 32-bit smartphones, legacy TV boxes, Fire TV Stick Gen 2/3 | **38.7 MB** | [**⬇️ Download APK**](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.5/Netmix-v0.5.5-armeabi-v7a.apk) | — | `247BA8E6564F20D13E52CCA4DA91DC5970110154845778BE95DF234D6FF46AAC` |
+| **x86_64** | Chromebooks, Windows Subsystem for Android (WSA), 64-bit PC Emulators | **41.7 MB** | [**⬇️ Download APK**](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.5/Netmix-v0.5.5-x86_64.apk) | — | `C2AD62D52DF70D0402D66C67A5CAD5EDCDE4BBAA6E3FA141B88BC265E6321870` |
 
 ---
 
-## 🌟 What's New in v0.5.2
+## 🌟 What's New in v0.5.5
 
-- **🛡️ Full Privacy by Design**: Redesigned, transparent privacy architecture dialog. Zero user telemetry or background profiling.
-- **⚡ Performance Overhaul**: Minified release with R8 optimization, custom baseline profiles, and reduced memory footprint for smooth 60fps scrolling on budget phones.
-- **📱 Cleaned Settings UI**: Removed unwanted stream badge URLs and addon logos for a clutter-free interface.
-- **✈️ Official Telegram Channel**: Integrated one-tap Telegram community access with dynamic backend URL synchronization.
-- **🔒 Zero Invasive Permissions**: Removed intrusive background notifications and boot triggers.
+- **🎬 In-App Content Request Portal**: Added "Request Movie / Series" option directly in Settings with duplicate protection and real-time backend sync.
+- **🏛️ Theatrical "Now Playing" Country Hero Banner**: Hero carousel dynamically shows movies currently running in theaters in the user's specific country/region (India, US, UK, Japan, etc.).
+- **⚡ Direct Play Content Integration**: Stream admin-published movies and series directly within the app's player without waiting for third-party scrapers or external debrid resolvers. Full season & episode navigation.
+- **🛡️ Full Privacy by Design**: Zero telemetry, no trackers, transparent privacy model.
+- **🚀 Ultra-smooth 60fps Experience**: Minified with R8, baseline profiles, and reduced memory overhead.
 
 ---
 
