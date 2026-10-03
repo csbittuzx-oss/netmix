@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/csbittuzx-oss/netmix/releases/latest">
-    <img src="https://img.shields.io/badge/version-v0.5.5-E50914.svg?style=for-the-badge" alt="Latest Version" />
+    <img src="https://img.shields.io/badge/version-v0.5.6-E50914.svg?style=for-the-badge" alt="Latest Version" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/platform-Android_7.0+-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Platform" />
@@ -29,14 +29,14 @@
 ## 🚀 Quick Download
 
 ### Primary Release (Most Android Phones & Tablets)
-[![Download Release APK (ARM64)](https://img.shields.io/badge/⬇%EF%B8%8F_Download_Release_APK-ARM64--v8a_(Recommended)-E50914?style=for-the-badge&logo=android&logoColor=white)](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.5/Netmix-v0.5.5-arm64-v8a.apk)
+[![Download Release APK (ARM64)](https://img.shields.io/badge/⬇%EF%B8%8F_Download_Release_APK-ARM64--v8a_(Recommended)-E50914?style=for-the-badge&logo=android&logoColor=white)](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.6/Netmix-v0.5.6-arm64-v8a.apk)
 
 > **Recommended for 99% of modern phones**: Samsung Galaxy, Google Pixel, OnePlus, Xiaomi / Redmi / Poco, Motorola, Vivo, Oppo, Realme, Nothing Phone, etc.
 
 <br>
 
 ### Alternative Download Option (Android TV / All Devices)
-[![Download Universal APK](https://img.shields.io/badge/⬇%EF%B8%8F_Download_Universal_APK-All_Devices_%26_TV-1B1B1F?style=for-the-badge&logo=android&logoColor=white)](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.5/Netmix-v0.5.5-universal.apk)
+[![Download Universal APK](https://img.shields.io/badge/⬇%EF%B8%8F_Download_Universal_APK-All_Devices_%26_TV-1B1B1F?style=for-the-badge&logo=android&logoColor=white)](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.6/Netmix-v0.5.6-universal.apk)
 
 ---
 
@@ -46,14 +46,14 @@ Choose the APK that best matches your target device:
 
 | Architecture | Device Compatibility | Size | Download Link | Direct Mirror | SHA-256 Checksum |
 | :--- | :--- | :---: | :---: | :---: | :--- |
-| **ARM64 (`arm64-v8a`)**<br>*(Recommended)* | Almost all modern smartphones and tablets (64-bit ARM) | **40.4 MB** | [**⬇️ Download APK**](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.5/Netmix-v0.5.5-arm64-v8a.apk) | [Raw Mirror](https://github.com/csbittuzx-oss/netmix/raw/main/release/Netmix-v0.5.5-arm64-v8a.apk) | `AF49D870D4764CB422887C0AF336CF96448ABF8DA601FC9B11989D42989CD0D1` |
-| **Universal APK** | Any Android device (Phones, Tablets, Google TV, Android TV, FireStick) | **107.6 MB** | [**⬇️ Download APK**](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.5/Netmix-v0.5.5-universal.apk) | — | `15210A66B41C29BE45B5A028021C2336487A40C60E040F9AE676EE8F31AE870B` |
-| **ARMv7 (`armeabi-v7a`)** | Older 32-bit smartphones, legacy TV boxes, Fire TV Stick Gen 2/3 | **38.7 MB** | [**⬇️ Download APK**](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.5/Netmix-v0.5.5-armeabi-v7a.apk) | — | `D7475ED18298A69CDBD157B2668B4DDC971F5B8F44C26B7B88220DBB3E76070E` |
-| **x86_64** | Chromebooks, Windows Subsystem for Android (WSA), 64-bit PC Emulators | **41.7 MB** | [**⬇️ Download APK**](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.5/Netmix-v0.5.5-x86_64.apk) | — | `315DBB649473CCD5A0489AB42D693F98120045E084B5ABB761289B0C6B0CF7F8` |
+| **ARM64 (`arm64-v8a`)**<br>*(Recommended)* | Almost all modern smartphones and tablets (64-bit ARM) | **40.4 MB** | [**⬇️ Download APK**](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.6/Netmix-v0.5.6-arm64-v8a.apk) | [Raw Mirror](https://github.com/csbittuzx-oss/netmix/raw/main/release/Netmix-v0.5.6-arm64-v8a.apk) | `F6FCA56BEF5B77DD318525A697C0DFCA164FB9C40531113D1BA4BBAA5D0527E2` |
+| **Universal APK** | Any Android device (Phones, Tablets, Google TV, Android TV, FireStick) | **107.6 MB** | [**⬇️ Download APK**](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.6/Netmix-v0.5.6-universal.apk) | — | `71522BE9969B4D113CB2935E3DB21F86725FC3D9BCB9C858695E7056B330F722` |
+| **ARMv7 (`armeabi-v7a`)** | Older 32-bit smartphones, legacy TV boxes, Fire TV Stick Gen 2/3 | **38.7 MB** | [**⬇️ Download APK**](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.6/Netmix-v0.5.6-armeabi-v7a.apk) | — | `73241D84320F2AD5DC482C84E20658979125303F27980BEF7594D42AFB378E93` |
+| **x86_64** | Chromebooks, Windows Subsystem for Android (WSA), 64-bit PC Emulators | **41.7 MB** | [**⬇️ Download APK**](https://github.com/csbittuzx-oss/netmix/releases/download/v0.5.6/Netmix-v0.5.6-x86_64.apk) | — | `FF53DB252DFF0A009EBF02201F4A671AD574A7F298EC911C1F22EE13F7FD274E` |
 
 ---
 
-## 🌟 What's New in v0.5.5
+## 🌟 What's New in v0.5.6
 
 - **🎬 In-App Content Request Portal**: Added "Request Movie / Series" option directly in Settings with duplicate protection and real-time backend sync.
 - **🏛️ Theatrical "Now Playing" Country Hero Banner**: Hero carousel dynamically shows movies currently running in theaters in the user's specific country/region (India, US, UK, Japan, etc.).
